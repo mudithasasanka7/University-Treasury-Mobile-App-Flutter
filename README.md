@@ -1,16 +1,30 @@
-# treasury
+# Flutter App with Custom AppBar
 
-A new Flutter project.
+## Overview
+This Flutter project features a simple app with a customized **AppBar** containing three icons:  
+- ⚙ **Settings**  
+- ⋮ **More Options**  
+- 🔔 **Notifications**  
 
-## Getting Started
+Each icon has **padding** for inner spacing and **margins** for external spacing, ensuring a clean UI. The main screen includes a centered text widget inside a `Scaffold`.
 
-This project is a starting point for a Flutter application.
+## Features
+- 📌 **Custom AppBar with Icons**  
+- 🎨 **Proper Padding & Margin for Icons**  
+- 🏗 **Basic Flutter UI Structure**  
+- 📱 **Simple and Clean Design**  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Code Structure
+/lib
+  ├── main.dart    # Main Flutter App
+  ├── widgets/     # Custom widgets (if added later)
+  ├── assets/      # Images & icons (if any)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Steps to Use:
+1. Replace `your-username` and `your-repo-name` with your GitHub details.  
+2. Add screenshots if needed.  
+3. Customize further based on additional features.  
+
+Would you like any modifications? 😊
